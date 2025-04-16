@@ -1,0 +1,13 @@
+{
+  "name": "defi-llama-data-fetcher",
+  "version": "1.0.0",
+  "description": "Data fetcher for DeFi Llama API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "node data_formatter.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+} 
